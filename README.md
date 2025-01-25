@@ -30,8 +30,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joel-alvs/joel-alvs/output/snake.svg" alt="Snake animation" />
-
-###
