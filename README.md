@@ -1,4 +1,13 @@
-<h2 align="left">Olá, me chamo Joel Alves</h2>
+<h2 align="left">Olá pessoal, me chamo Joel Alves</h2>
+
+🌱 Atualmente, estou aprendendo programação com foco em JavaScript, React e Next.js.  
+- 👯 Estou procurando colaborar em projetos de código aberto para ganhar experiência prática.  
+- 🤔 Estou buscando ajuda para melhorar minha lógica de programação e aprender boas práticas de desenvolvimento.  
+- 💬 Pergunte-me sobre meu processo de aprendizado e projetos que estou explorando.  
+- 📫 Como entrar em contato comigo: [https://www.linkedin.com/in/joel-alves-2a4300b7/].  
+- 😄 Pronomes: Ele/Dele.  
+- ⚡ Curiosidade: Amo explorar novas tecnologias e transformar ideias em códigos funcionais!  
+
 
 ###
 
